@@ -16,7 +16,7 @@
 
 - 📧 Email: swastikumar3012@gmail.com
 - 📝 LinkedIn: https://www.linkedin.com/in/swastikumar/
-- ...
+- 📝 Instagram: https://www.instagram.com/swastik.here/ ...
 
 ### Let's Connect
 
