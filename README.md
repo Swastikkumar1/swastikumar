@@ -1,4 +1,29 @@
-👋 Hi, I’m Swasti kumar
+### About Me
+
+- 👩‍🎓 I'm Swasti kumar, a first year student passionate about computer science.
+- 📚 Currently pursuing computer science at Lovely Professional University.
+- 🌱 I'm eager to learn and explore new technologies and coding languages.
+- 💼 Aspiring coder, with a keen interest in learn something new everytime.
+- 🚀 Always working on personal coding projects and collaborating with fellow students on exciting ventures.
+- 🌟 Outside of coding, I enjoy watching Movies,Football,Music.
+
+### Skills
+
+- 🔧 Proficient in Python.
+- 🔧 Familiar with HTML,CSS.
+
+### Find Me Online
+
+- 📧 Email: swastikumar3012@gmail.com
+- 📝 LinkedIn: swastikumar
+- ...
+
+### Let's Connect
+
+- 👥 Looking to connect with fellow students and tech enthusiasts.
+- 📫 Feel free to reach out for study groups, coding projects, or just to chat about tech!
+
+
 
 
 <!---
