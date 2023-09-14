@@ -15,7 +15,7 @@
 ### Find Me Online
 
 - 📧 Email: swastikumar3012@gmail.com
-- 📝 LinkedIn: swastikumar
+- 📝 LinkedIn: https://www.linkedin.com/in/swastikumar/
 - ...
 
 ### Let's Connect
