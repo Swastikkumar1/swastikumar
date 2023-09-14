@@ -3,9 +3,9 @@
 - 👩‍🎓 I'm Swasti kumar, a first year student passionate about computer science.
 - 📚 Currently pursuing computer science at Lovely Professional University.
 - 🌱 I'm eager to learn and explore new technologies and coding languages.
-- 💼 Aspiring coder, with a keen interest in learn something new everytime.
+- 💼 Aspiring coder, with a keen interest to learn something new everytime.
 - 🚀 Always working on personal coding projects and collaborating with fellow students on exciting ventures.
-- 🌟 Outside of coding, I enjoy watching Movies,Football,Music.
+- 🌟 Outside of coding, I enjoy Movies,Football,Music.
 
 ### Skills
 
